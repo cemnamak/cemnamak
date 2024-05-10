@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cem</h1>
 <h3 align="center">A fullstack developer from Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cemnamak&label=Profile%20views&color=0e75b6&style=flat" alt="cemnamak" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cemnamak" alt="cemnamak" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [www.cemnamak.com](www.cemnamak.com)
