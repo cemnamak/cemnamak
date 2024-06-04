@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cemnamak" alt="cemnamak" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.cemnamak.com](www.cemnamak.com)
+- 👨‍💻 All of my projects are available at [www.cemnamak.com.tr](www.cemnamak.com.tr)
 
 - 📫 How to reach me **cem.namakk@gmail.com**
 
